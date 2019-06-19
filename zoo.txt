@@ -1,0 +1,10 @@
+lion,  leopard,dolfin
+ostrich,flamingo
+cheater
+crested crane
+kob
+kangaroo
+rhaino
+hayna
+elephant,
+buffalo,
